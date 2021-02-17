@@ -16,6 +16,7 @@ human_activity/
 santander/
 OpinosisDataset1.0/
 preview/
+dataset/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
